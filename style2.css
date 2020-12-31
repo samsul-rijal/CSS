@@ -31,7 +31,6 @@ body{
 }
 
 .badan .sidebar{
-	
 	width: 30%;
 	height: 350px;
 	background: grey;
@@ -75,4 +74,8 @@ body{
 	background: aqua;
 	clear: both;
 	text-align: center;
+}
+
+.footer a{
+	text-decoration: none;
 }
