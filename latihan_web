@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Latihan Web</title>
-	<link rel="stylesheet" type="text/css" href="style2.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
@@ -38,7 +38,7 @@
 	</div>
 
 	<div class="footer">
-		&copy Samsul Rijal
+		<a href="#">&copy Samsul Rijal</a>
 	</div>
 
 </body>
